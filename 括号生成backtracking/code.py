@@ -1,7 +1,7 @@
 """
 使用递归方法先加一个左括号，然后依次尝试加一个左括号或加一个右括号，如果右边括号数量大于左边则是无效括号直接返回，知道最后左括号数量和右括号数量和n都相等则代表这是一个有效括号，添加到list中即可
 
-作者：clever-chateletxrp
+作者：ffchic
 链接：https://leetcode.cn/problems/generate-parentheses/solution/di-gui-shi-xian-by-clever-chateletxrp-9ycz/
 来源：力扣（LeetCode）
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
